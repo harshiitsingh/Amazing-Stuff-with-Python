@@ -1,0 +1,7 @@
+print("\U0001F600")
+print("\U0001F618")
+print("\U0001F917")
+print("\U0001F62A")
+print("\U0001F637")
+
+https://d12llh04.na1.hubspotlinksfree.com/Btc/2M+113/d12llh04/VWC60L8DD8PNW2Ls6y45Dk41nW8mS6hr4F4-YyN7gG7_Q3lScmV1-WJV7Cg-2GW1MdPXG1rmF4JN7rs7WZKKx0QW43CBDg8NdvN_W2fgx8j5QKc3RW1R4R_88sZPKmVXZSlM1VCHzFW8qgN2v6GbsRpVjRL1960RrPgN7h73S3pmYlnVytSwR6xbjmnW3rzLnT6fhpGWW1QQmyk8-Dyp4W7pxtK41j1P--W76VCdZ13t8GvW6C6Yck3scxdcMfKyr-nFt9BW3XKcyW9hW1dmN6B3pzM8qtXHW5s_8Kx7SjlyWW2yVd5W5Ln23NW30YGXX4Kl3mbW8M_GhP3ygymgW4720Zk6ZlnPqW2llBzK3F9rVHW1-pk179kwgZNW3kd0nM9bnDcN3m7K1" style="color:#00a4bd;font-size:16px;font-family:Arial,sans-serif;Margin:0;text-transform:none;text-decoration:none;padding:12px 18px;display:block" rel="noreferrer" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://d12llh04.na1.hubspotlinksfree.com/Btc/2M%2B113/d12llh04/VWC60L8DD8PNW2Ls6y45Dk41nW8mS6hr4F4-YyN7gG7_Q3lScmV1-WJV7Cg-2GW1MdPXG1rmF4JN7rs7WZKKx0QW43CBDg8NdvN_W2fgx8j5QKc3RW1R4R_88sZPKmVXZSlM1VCHzFW8qgN2v6GbsRpVjRL1960RrPgN7h73S3pmYlnVytSwR6xbjmnW3rzLnT6fhpGWW1QQmyk8-Dyp4W7pxtK41j1P--W76VCdZ13t8GvW6C6Yck3scxdcMfKyr-nFt9BW3XKcyW9hW1dmN6B3pzM8qtXHW5s_8Kx7SjlyWW2yVd5W5Ln23NW30YGXX4Kl3mbW8M_GhP3ygymgW4720Zk6ZlnPqW2llBzK3F9rVHW1-pk179kwgZNW3kd0nM9bnDcN3m7K1&amp;source=gmail&amp;ust=1644298829277000&amp;usg=AOvVaw06eLEMm-1F4HGO2zV1Vmhr
