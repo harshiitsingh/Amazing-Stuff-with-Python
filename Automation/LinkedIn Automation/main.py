@@ -36,9 +36,9 @@ def main():
 
 def login_to_linkedin(driver):
     username = driver.find_element(By.ID, "username")
-    username.send_keys("harman.s2021@gmail.com")
+    username.send_keys("your username")
     password = driver.find_element(By.ID, "password")
-    password.send_keys("agharman16")
+    password.send_keys("your password")
     # driver.find_element(By.CLASS_NAME, 'button.btn-md').click()
     try:
         driver.find_element(By.CSS_SELECTOR, "button.btn__primary--large").click()
